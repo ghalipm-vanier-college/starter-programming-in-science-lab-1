@@ -7,7 +7,8 @@ def hello_world():
 
 # Function 2: Get input and output with different variable types
 # This function should prompt the user for their name (string), age (int), and height (float),
-# and then print them back in a formatted message.
+# and then print them back in the format:
+# "Hello, Alice!\nYou are 25 years old.\nYour height is 1.65 meters.".
 def input_output():
     # TODO: Implement this function
     pass  # Replace with your code
