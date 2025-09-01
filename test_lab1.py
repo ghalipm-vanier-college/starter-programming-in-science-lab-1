@@ -23,7 +23,7 @@ def test_hello_world():
     # Test case for input_output() function
 def test_input_output():
     # Sample user inputs for testing
-    user_inputs = ["Alice", "25", "5.7"]
+    user_inputs = ["Alice", "25", "1.75"]
 
     # Redirect stdin to simulate user input
     sys.stdin = StringIO("\n".join(user_inputs))
