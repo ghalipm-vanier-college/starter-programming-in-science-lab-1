@@ -40,7 +40,7 @@ def test_input_output():
     actual_output = lines[0].strip().split(":")[3:][0].strip() + "\n" + lines[1].strip() + "\n" + lines[2].strip()
 
     # Expected output after the function has printed
-    expected_output = "Hello, Alice!\nYou are 25 years old.\nYour height is 5.7 meters."
+    expected_output = "Hello, Alice!\nYou are 25 years old.\nYour height is 1.75 meters."
 
     # Compare the captured output to the expected output
     assert actual_output == expected_output
