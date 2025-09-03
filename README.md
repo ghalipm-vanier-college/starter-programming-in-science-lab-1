@@ -8,7 +8,7 @@ This template repository is the starter project for Programming in Science Lab 1
 
 Write a Python program that prints "Hello, World!" to the screen.
 
-2. Input and Output with Different Variable Types:
+2. Input and Output with Variable Types:
 
 Write a Python program that asks the user to input their name (string), age (integer), and height (float), and then displays them back to the user with an appropriate message.
 
